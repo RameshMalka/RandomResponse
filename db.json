@@ -1,0 +1,36 @@
+{
+  "searchId": 1234,
+  "pageNo": 1,
+  "pageSize": 25,
+  "totalResults": 120,
+  "searchResults": [
+    {
+      "language": "ENGLISH",
+      "eDescription": "Roller Shades - Product Card",
+      "eMessage": "Roller Shades - Product Card",
+      "fDescription": "Stores à enroulement - Affiche descriptive",
+      "fMessage": "HStores à enroulement - Affiche descriptive",
+      "vendorCode": "#CAN600000038",
+      "dimLen": "48",
+      "dimWidth": "2.0",
+      "dimHeight": "3.5",
+      "shipDesc": "RTP",
+      "price": "$8.00",
+      "uom": "ea"
+    },
+    {
+      "language": "ENGLISH",
+      "eDescription": "Roller Shades - Product Card",
+      "eMessage": "Roller Shades - Product Card",
+      "fDescription": "Stores à enroulement - Affiche descriptive",
+      "fMessage": "HStores à enroulement - Affiche descriptive",
+      "vendorCode": "#CAN600009765",
+      "dimLen": "48",
+      "dimWidth": "2.0",
+      "dimHeight": "3.5",
+      "shipDesc": "RTP",
+      "price": "$23.00",
+      "uom": "ea"
+    }
+  ]
+}
